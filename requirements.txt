@@ -1,0 +1,2 @@
+# php2shell.py uses only the Python standard library.
+# Requires Python 3.9 or newer. No third-party packages are required.
